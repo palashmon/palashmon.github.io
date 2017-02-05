@@ -1,0 +1,12 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height:100%;
+  margin:20px;
+  font-family: 'Calligraffitti', cursive;
+  overflow: hidden;
+}
