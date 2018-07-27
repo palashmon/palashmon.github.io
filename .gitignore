@@ -1,0 +1,5 @@
+node_modules/
+*.log
+css/style.css
+dist
+.nyc_output
